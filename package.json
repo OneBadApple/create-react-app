@@ -51,5 +51,23 @@
     "yarn.lock": [
       "git rm --cached"
     ]
-  }
+  },
+  "name": "create-react-app",
+  "description": "Create React apps with no build configuration.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OneBadApple/create-react-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OneBadApple/create-react-app/issues"
+  },
+  "homepage": "https://github.com/OneBadApple/create-react-app#readme"
 }
